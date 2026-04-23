@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "seedflip-design": {
+      "source": "bockenstette1/seedflip-skills",
+      "sourceType": "github",
+      "computedHash": "cc8320e2ddf146d78abe1afbf3aad3e0fe8b3fface92d52a68b92eb77dd9a8b3"
+    }
+  }
+}
